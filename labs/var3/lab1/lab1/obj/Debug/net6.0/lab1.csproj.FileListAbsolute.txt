@@ -1,0 +1,15 @@
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+E:\labs\var3\lab1\lab1\bin\Debug\net6.0\lab1.exe
+E:\labs\var3\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+E:\labs\var3\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+E:\labs\var3\lab1\lab1\bin\Debug\net6.0\lab1.dll
+E:\labs\var3\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.dll
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\refint\lab1.dll
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+E:\labs\var3\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
